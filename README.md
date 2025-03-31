@@ -6,15 +6,15 @@
   
 - 👨‍💻 Portfolio : [portfoli.me]()
 - 📄 Resume : [Resume]()
-- 📫 How to reach me vrajeshghelani6125@gmail.com  
-- ⚡ LeetCode : [LeetCode](https://leetcode.com/u/23IT034/)
-- ⚡ HakerRank : [HakerRank](https://www.hackerrank.com/profile/23IT034)
+- 📫 How to reach me dhruvsojitra2332006@gmail.com  
+- ⚡ LeetCode : [LeetCode](https://leetcode.com/u/23IT123/)
+- ⚡ HakerRank : [HakerRank](https://www.hackerrank.com/profile/23it123)
 - 🤝 I’m looking to collaborate on *Open Source Projects* 
 
 <h2 align="left">Connect with me </h2>
 
-- Linkedin : [Vrajesh Ghelani](https://www.linkedin.com/in/vrajesh-ghelani-66b7ab288/)
-- Mail : vrajeshghelani6125@gmail.com
+- Linkedin : [Dhruv Sojitra](https://www.linkedin.com/in/dhruv-sojitra-569188344/)
+- Mail : dhruvsojitra2332006@gmail.com
 <h2 align="left">Languages and Tools:</h2>
 
 *Frontend Development*
